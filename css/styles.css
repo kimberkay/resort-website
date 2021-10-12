@@ -1,0 +1,42 @@
+* {
+  font-family: 'Times New Roman', Times, serif;
+  text-decoration: none;
+  background-color: rgb(216, 77, 77);
+}
+
+h1 {
+  color: orangered;
+  text-align: center;
+}
+
+h2 {
+  color: orange;
+  fomt-style: bold;
+  text-align: left;
+}
+
+h3 {
+  font-style: italic;
+  color: olivedrab;
+}
+
+p {
+  text-indent: 2em;
+  font-family: cursive;
+  color: salmon;
+
+}
+
+img {
+  border: sienna;
+  border-width: 3px;
+  border-style: double;
+}
+
+ul {
+  font-family: sans-serif;
+  font-weight: 900;
+  font-size: 2em;
+  background-color: rgb(7, 4, 0);
+  padding: 4px;
+}
